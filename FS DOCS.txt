@@ -1,0 +1,295 @@
+
+  
+  
+  
+  <div id="fs-goto-btn">
+     <br /><br />
+    <p class="download-note">سيفرات المشاهدة 
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
+  <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.133 13.133 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5c2.12 0 3.879 1.168 5.168 2.457A13.133 13.133 0 0 1 14.828 8c-.058.087-.122.183-.195.288-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5c-2.12 0-3.879-1.168-5.168-2.457A13.134 13.134 0 0 1 1.172 8z" />
+  <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z" />
+</svg>
+  </p>
+  <br />   
+        
+  <div style="border-radius: 3px; box-shadow: rgb(191, 191, 191) 6px 6px 10px; width: 100%;">
+    <div style="border-radius: 3px; height: 0px; overflow: hidden; padding-bottom: 56.15%; position: relative;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" loading="lazy" src="https://www.youtube.com/embed/🖥️" srcdoc="&lt;style&gt;
+          * {
+          padding: 0;
+          margin: 0;
+          overflow: hidden;
+          }
+          
+          
+          img, svg {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+          }
+          
+          svg {
+            filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));
+            transition: all 250ms ease-in-out;
+          }
+          
+          body:hover svg {
+            filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
+            transform: scale(1.2);
+          }
+        &lt;/style&gt;
+        &lt;a href='https://www.youtube.com/embed/🖥️'&gt;
+          &lt;img src='🏞️' alt='Coffee Recipe Javascript Project'&gt;
+          &lt;svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'&gt;&lt;circle cx='12' cy='12' r='10'&gt;&lt;/circle&gt;&lt;polygon points='10 8 16 12 10 16 10 8'&gt;&lt;/polygon&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+        " style="border-radius: 3px; border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;" title="Coffee Recipe Javascript Project">
+      </iframe>
+    </div>
+  </div>  
+<br>
+    <!-- anime player -->
+
+    <video
+    id="my-video"
+    class="video-js vjs-16-9 vjs-big-play-centered"
+    controls
+    preload="true"
+    poster="MY_VIDEO_POSTER.jpg"
+    data-setup='{ "playbackRates": [0.5, 1, 1.5, 2] }'>
+      
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+      
+      
+      
+      
+    <source src="#"/>
+    
+    
+    
+   
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+    
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser that
+      <a href="https://videojs.com/html5-video-support/" target="_blank"
+        >supports HTML5 video</a>
+    </p>
+  </video>
+  <br>
+  <!-- url player pro -->
+<video  style="--plyr-color-main:#000;"  id="url-player-pro" 
+autoplay
+preload="true"
+playsinline controls 
+
+data-poster="#">
+  <source src="#"/>
+
+</video>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+    <!-- styles -->
+    <link rel="stylesheet" href="https://vjs.zencdn.net/7.20.3/video-js.css">
+    	<link rel="stylesheet" href="https://cdn.plyr.io/3.7.2/plyr.css" />
+<!-- script -->
+  
+  <script src="https://cdn.plyr.io/3.7.2/plyr.js"></script>
+  
+  
+    <script>
+      var controls =
+[
+    'play-large', // The large play button in the cأنشاء حساب
+    'restart', // Restart playback
+    'rewind', // Rewind by the seek time (default 10 seconds)
+    'play', // Play/pause playback
+    'fast-forward', // Fast forward by the seek time (default 10 seconds)
+    'progress', // The progress bar and scrubber for playback and buffering
+    'current-time', // The current time of playback
+    'duration',// The full duration of the media
+    
+    'settings', // Settings menu
+    'pip', // Picture-in-picture (currently Safari only)
+    'airplay', // Airplay (currently Safari only)
+    'fullscreen' // Toggle fullscreen
+];
+
+var player = new Plyr('#url-player-pro', { controls });
+    </script>
+    
+    
+    
+    
+    
+  
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+
+
+<br/>
+  
+  
+  
+  
+  
+  
+  
+    <p class="download-note">سيفرات المشاهدة 
+ احتياطيه <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-eye" viewBox="0 0 16 16">
+   <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.133 13.133 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5c2.12 0 3.879 1.168 5.168 2.457A13.133 13.133 0 0 1 14.828 8c-.058.087-.122.183-.195.288-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5c-2.12 0-3.879-1.168-5.168-2.457A13.134 13.134 0 0 1 1.172 8z" />
+   <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z" />
+ </svg>
+  </p>
+  <br />   
+
+
+
+
+  
+  <div id="watch-services">
+  <div id="watch-services-btn">
+    <button class="watch-services-btn" data-vurl="#">سيرفر 1</button>
+    <button class="watch-services-btn" data-vurl="#">سيرفر 2</button>
+    <button class="watch-services-btn" data-vurl="#">سرفر 3</button>
+    <button class="watch-services-btn" data-vurl="#">سيرفر 4</button>
+    <button class="watch-services-btn" data-vurl="#">سيرفر 5</button>
+    <button class="watch-services-btn" data-vurl="#">سيرفر 6</button>
+    </div>
+  <div id="watch-services-video">
+    <iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" id="watch-services-video-src" src="#"></iframe>
+    </div>            
+</div>
+  
+  
+  
+     <br /><br />
+    <p class="download-note">سيفرات التحميل <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+      <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z" />
+      <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z" />
+    </svg>
+    </p>
+  <br />  
+
+<!--- dwonload services --->
+<div class="download-services-video-src">
+  <ul>
+    <li style="text-align:center">
+      <strong>روابط التحميل <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+        <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z" />
+        <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z" />
+      </svg></strong>
+            <br>
+            <br>
+      <a href="#" target="_blank" rel="nofollow">Mega</a> |
+      <a href="#" target="_blank" rel="nofollow">Media Fire</a> |
+      <a href="#" target="_blank" rel="nofollow">الرائد</a> |
+      <a href="#" target="_blank" rel="nofollow">تحميل مباشره</a>
+    </li>
+      </ul>
+</div>
+   
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<br>
+
+
+
+
+
+
+
+
+
+
+
+<!--key words-->
+<div class="key-words">
+ <p class="key-words-title">كلمات محركات البحث <svg class="bi bi-search" fill="currentColor" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+   <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z">
+ </path></svg></p> 
+  <hr />
+ <div>
+ ♥
+
+   
+   </div>
+   </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="download-container">
+      <a class="download-btn" href="#">تحميل الحلقه <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16"> <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/> <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/> </svg></a>
+       </div>
+      
+
+  
+  
